@@ -1,7 +1,6 @@
 import React from 'react';
 import Card from 'react-bootstrap/Card';
 import Button from 'react-bootstrap/Button';
-import SearchInput, {createFilter} from 'react-search-input'
 import Form from 'react-bootstrap/Form';
 
 function searchingFor(searchEmp){
